@@ -1,0 +1,1 @@
+# python-class-assign-01
